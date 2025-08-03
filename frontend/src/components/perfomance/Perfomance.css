@@ -1,0 +1,28 @@
+.PerfomanceText {
+    line-height:100px;
+    font-family: 'Inter', Arial, sans-serif;
+    white-space: nowrap;
+    font-weight: 700;
+    color: black;
+    font-size: 100px;
+}
+
+.RedText {
+    line-height:100px;
+    font-family: 'Inter', Arial, sans-serif;
+    font-weight: 700;
+    white-space: nowrap;
+    color: #d01f1f;
+    font-size: 100px;
+}
+
+.PerfomanceContainer {
+    margin-top: 57px;
+}
+
+.TextContainer {
+    max-width: 1200px !important;
+    width: 100% !important;
+    text-align: center;
+
+}

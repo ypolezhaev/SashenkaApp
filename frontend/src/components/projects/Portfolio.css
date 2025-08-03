@@ -1,0 +1,31 @@
+
+.PortfolioSection {
+    height: 1520px;
+    display: flex;
+    align-items: center;
+    position: relative;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+.PortfolioContainer {
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    max-width: 1160px !important;
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.ProtfolioHeader {
+    width: 100%;
+    margin-bottom: 55px;
+    text-align: right;
+}
+
+.PortfolioContentContainer {
+    flex: 1;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}

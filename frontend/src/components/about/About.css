@@ -1,0 +1,36 @@
+.AboutText {
+    line-height: 51px;
+    font-family: 'Inter', Arial, sans-serif;
+    white-space: nowrap;
+    font-weight: 400;
+    
+    font-size: 44px;
+}
+/* display={'flex'} alignItems={'center'} className={'AboutSection background-gray'} as="section" minHeight={'48.5vh'} position='relative' */
+.AboutSection {
+    display: flex;
+    align-items: center;
+    position: relative;
+    height: 450px;
+}
+
+.AboutContainer {
+    padding: 0;
+    max-width: 1160px;
+    width: 100%;
+    justify-content: center;
+}
+
+.AboutTextContainer {
+    margin: 0;
+    padding: 0;
+    text-align: left;
+}
+
+.black {
+    color: black;
+}
+
+.red {
+    color: #d01f1f;
+}
