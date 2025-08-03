@@ -7,6 +7,13 @@
     font-size: 100px;
 }
 
+.PerfomanceContentContainer {
+    max-width: 1400px !important;
+    width: 100% !important;
+    height: 100%;
+    position: relative;
+}
+
 .RedText {
     line-height:100px;
     font-family: 'Inter', Arial, sans-serif;
@@ -17,7 +24,8 @@
 }
 
 .PerfomanceContainer {
-    margin-top: 57px;
+    padding-top: 58px;
+    flex: 1;
 }
 
 .TextContainer {
