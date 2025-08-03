@@ -16,8 +16,8 @@
 
 .AboutContainer {
     padding: 0;
-    max-width: 1160px;
-    width: 100%;
+    max-width: 1160px !important;
+    width: 100% !important;
     justify-content: center;
 }
 
