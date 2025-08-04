@@ -1,0 +1,84 @@
+.ContactsSection {
+    height: 800px;
+    display: flex;
+    align-items: center;
+    position: relative;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+.ContactsHeader {
+    width: 100%;
+    margin-bottom: 55px;
+    text-align: right;
+}
+
+.ContactsContainer {
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    max-width: 1161px !important;
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.ContactsContentContainer {
+    height: 477px;
+    border-radius: 25px 25px 25px 25px;
+    background-color: #ffffff;
+    display: flex;
+}
+
+.ContactsPhotoContainer {
+    width: 330px !important;
+    height: 100% !important;
+    display: flex;
+    align-items: center;
+}
+
+.ContactsLinksContainer {
+    max-width: 540px !important;
+    flex: 1;
+    height: 100%;
+}
+
+.ContactsLinksHeader {
+    line-height: 40px;
+    font-family: 'Inter', Arial, sans-serif;
+    white-space: nowrap;
+    font-weight: 600;
+    font-size: 40px;
+}
+
+.ContactsLinksGrayText {
+    line-height: 40px;
+    font-family: 'Inter', Arial, sans-serif;
+    white-space: nowrap;
+    font-weight: 400;
+    font-size: 30px;
+    opacity: 0.55;
+}
+
+.ContactsLinkContainer {
+    height: 81px;
+    border-radius: 20px 20px 20px 20px;
+    margin: 0 !important;
+    margin-top: 20px !important;
+    width: 100%;
+}
+
+.ContactsLink {
+    height: 100% !important;
+    width: 100% !important;
+    line-height: 81px;
+    font-family: 'Inter', Arial, sans-serif;
+    white-space: nowrap;
+    font-weight: 400;
+    font-size: 30px;
+    color: #ffffff;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+

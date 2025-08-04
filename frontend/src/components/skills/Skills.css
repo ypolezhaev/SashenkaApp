@@ -1,0 +1,61 @@
+.SkillsSection {
+    height: 810px;
+    display: flex;
+    align-items: center;
+    position: relative;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+.SkillsHeader {
+    width: 100%;
+    margin-bottom: 55px;
+    text-align: right;
+}
+
+.SkillsContainer {
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    max-width: 1160px !important;
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.SkillsContentContainer {
+    height: 600px;
+    border-radius: 25px 25px 25px 25px;
+    background-color: #ffffff;
+}
+
+.ParallaxText {
+    color: #111111;
+    white-space: nowrap;
+    font-family: 'Inter', Arial, sans-serif;
+}
+
+.ParallaxText36 {
+    font-size: 36px;
+    font-weight: 400;
+}
+
+.ParallaxText32 {
+    font-size: 32px;
+    font-weight: 400;
+}
+
+.ParallaxText30 {
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.ParallaxText25 {
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.ParallaxText56 {
+    font-size: 56px;
+    font-weight: 400;
+}
+

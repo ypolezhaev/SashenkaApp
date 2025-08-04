@@ -5,7 +5,7 @@ import './Portfolio.css';
 function PortfolioForm() {
     return (
         <Box id={'portfolio'} className='PortfolioSection background-gray'>
-            <Container className='PortfolioContainer'>
+            <Container px={'0'} className='PortfolioContainer'>
                 <Text className='ProtfolioHeader MediumText black'>недавние проекты</Text>
                 <Flex className='PortfolioContentContainer' direction={'column'}>
                     <Flex width='100%' direction={'row'} align={'center'} gap={6} >

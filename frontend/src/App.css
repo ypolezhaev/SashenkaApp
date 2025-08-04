@@ -64,3 +64,11 @@ body {
 .background-gray {
   background-color: #f8f8f8
 }
+
+.EndContainer {
+  position: relative;
+  height: 400px;
+  width: 100%;
+  display: flex;
+  margin: 0 auto;
+}
